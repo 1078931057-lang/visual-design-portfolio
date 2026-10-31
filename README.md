@@ -17,10 +17,6 @@ Visual design portfolio featuring campaign design, information visualization and
 ### 03 Campaign & Editorial Design
 微信公众号版式、活动海报、宣传长图及多尺寸运营物料设计。
 
-## Portfolio PDF
-
-[View / Download Portfolio](./qiu-xinrui-portfolio.pdf)
-
 ## Skills
 
 - Visual Design
